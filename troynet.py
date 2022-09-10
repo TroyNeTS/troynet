@@ -1,3 +1,5 @@
+#troynet tools discord nuke bott.
+#discord nuke
 import discord
 from discord.ext import commands
 from colorama import init, Fore as cc
@@ -21,7 +23,7 @@ baner = f'''
 {c}─║║╔╣╬║║║║║║║╩╣║
 {g}─╚╩╝╚═╬╗║╚╩═╩═╩╝
 {dr}──────╚═╝
-{b}Made by: {g}TroyNeT'''
+{b}Made by: {g}</TroyNeT>'''
 
 
 
